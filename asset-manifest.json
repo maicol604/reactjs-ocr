@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maicol604/reactjs-ocr/static/css/main.3993df9c.css",
+    "main.js": "/maicol604/reactjs-ocr/static/js/main.92893f15.js",
+    "static/js/787.719be949.chunk.js": "/maicol604/reactjs-ocr/static/js/787.719be949.chunk.js",
+    "index.html": "/maicol604/reactjs-ocr/index.html",
+    "main.3993df9c.css.map": "/maicol604/reactjs-ocr/static/css/main.3993df9c.css.map",
+    "main.92893f15.js.map": "/maicol604/reactjs-ocr/static/js/main.92893f15.js.map",
+    "787.719be949.chunk.js.map": "/maicol604/reactjs-ocr/static/js/787.719be949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3993df9c.css",
+    "static/js/main.92893f15.js"
+  ]
+}
